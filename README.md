@@ -7,3 +7,5 @@ This will host the flask API locally to fetch the prediction.
 
 On another terminal,navigate to the react-app directory and run the command npm start.
 This will open up the react-web app on your browser.Enter the reuqired values and your prediction is on the screen!
+
+![Alt Text](image/Appimage.png)
