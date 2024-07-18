@@ -1,5 +1,5 @@
-This project consists of ML model trained on the dataset taken from the following link : 
-https://archive.ics.uci.edu/dataset/291/airfoil+self+noise
+This project is a react app that fetches predcitons from Flask API. 
+The ML model is trained on the dataset taken from the following link : https://archive.ics.uci.edu/dataset/291/airfoil+self+noise
 
 To use this project, first download the source code from this repository.
 On a terminal, run the command python application.py.
